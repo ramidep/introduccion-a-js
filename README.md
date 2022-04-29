@@ -1,3 +1,9 @@
+Español: Tareas hechas por mi para este curso de javascript
+
+English: Homework made by me for this javascript class
+
+
+
 # r/Argentina Programa
 
 Este repositorio es una traducción casi literal de https://github.com/muses-code-js/js-intro-workshop, de [MusesCodeJS](https://musescodejs.org/) y su autora Tanya Butenko.
